@@ -1,0 +1,14 @@
+{
+  "teachers": [
+    {
+      "username": "ms-johnson",
+      "display_name": "Ms. Johnson",
+      "password_hash": "870c14521511d57c5b981687a6174f6a1a6ab193cc02b91722cdb3b2dbc28d03"
+    },
+    {
+      "username": "mr-lee",
+      "display_name": "Mr. Lee",
+      "password_hash": "c52b2b123abb53589085754a44fa70b9c9bbd0bab6fe6f978dd1936b3cb329e2"
+    }
+  ]
+}
